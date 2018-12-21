@@ -1,0 +1,3 @@
+com\framework\manager\ICommonManager.class
+com\framework\manager\IManager.class
+com\framework\manager\impl\BaseManager.class

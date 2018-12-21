@@ -1,0 +1,3 @@
+com\framework\service\IService.class
+com\framework\service\impl\BaseService.class
+com\framework\service\impl\BaseService$1.class

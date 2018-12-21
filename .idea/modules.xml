@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com-framework.iml" filepath="$PROJECT_DIR$/com-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-framework-core/com-framework-core.iml" filepath="$PROJECT_DIR$/com-framework-core/com-framework-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-framework-domain/com-framework-domain.iml" filepath="$PROJECT_DIR$/com-framework-domain/com-framework-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-framework-manager/com-framework-manager.iml" filepath="$PROJECT_DIR$/com-framework-manager/com-framework-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-framework-model/com-framework-model.iml" filepath="$PROJECT_DIR$/com-framework-model/com-framework-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-framework-service/com-framework-service.iml" filepath="$PROJECT_DIR$/com-framework-service/com-framework-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-framework-web/com-framework-web.iml" filepath="$PROJECT_DIR$/com-framework-web/com-framework-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-framework-model/fom-framework-model.iml" filepath="$PROJECT_DIR$/com-framework-model/fom-framework-model.iml" />
+    </modules>
+  </component>
+</project>
